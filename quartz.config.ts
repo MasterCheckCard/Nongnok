@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 디지털 가든",
+    pageTitle: "Research and Puplish",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Gowun Dodum",
-        body: "Gowun Dodum",
+        header: "42dot Sans",
+        body: "42dot Sans",
         code: "JetBrains Mono",
       },
       colors: {

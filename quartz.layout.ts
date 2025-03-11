@@ -9,18 +9,18 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        repo: 'anpigon/anpigon-quartz',
-        repoId: 'R_kgDOLKhz-Q',
+        repo: 'MasterCheckCard/Nongnok',
+        repoId: 'R_kgDOOGc7mg',
         category: 'General',
-        categoryId: 'DIC_kwDOLKhz-c4CczBa',
+        categoryId: 'DIC_kwDOOGc7ms4Cnzr8',
         mapping: 'pathname',
       }
     }),
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/MasterCheckCard/Nongnok",
+      "Discord Community": "",
     },
   }),
 }
